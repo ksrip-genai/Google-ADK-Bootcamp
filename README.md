@@ -1,4 +1,4 @@
-# Google-ADK-Bootcamp
+# Google-ADK-Bootcamp - Kiran Sripathi
 # AI Agent Development Skills Validation Workshop
 
 This repository contains the completed challenge labs from an AI Agent Development 
@@ -21,7 +21,7 @@ all user-agent interactions and validate inputs using Google Cloud Model Armor.
 
 ### Challenge Lab 3: Creating a Multi-Agent System
 Design and wire together a multi-agent system with specialized sub-agents for 
-weather analysis, news search, and evacuation routing.
+weather analysis, news search.
 
 ### Challenge Lab 4: Creating an Agent Workflow
 Implement a sequential agent workflow pipeline that coordinates all sub-agents 
